@@ -25,7 +25,7 @@ export async function generateMetadata({
   )) as string;
   const chatPartner = JSON.parse(chatPartnerRaw) as User;
 
-  return { title: `TxtVibe | ${chatPartner.name} chat` };
+  return { title: ` | ${chatPartner.name} chat` };
 }
 
 interface PageProps {

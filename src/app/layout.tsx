@@ -3,8 +3,8 @@ import "./globals.css";
 
 // Done after the video and optional: add page metadata
 export const metadata = {
-  title: "TxtVibe | Home",
-  description: "Welcome to the TxtVibe",
+  title: "Buzzio | Home",
+  description: "Welcome to the Buzzio",
 };
 
 export default function RootLayout({
